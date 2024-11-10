@@ -13,7 +13,7 @@ df=pd.read_csv("path_to_.csv_file_downloaded")
 Step-5 : Now you can run code. <br>
 
 ## Overview of the assignment
-# Predictive Model for Restaurant Tip Estimation
+## Predictive Model for Restaurant Tip Estimation
 
 This project develops a predictive model to estimate tip amounts in restaurants based on customer billing and demographic details. Using various regression techniques, the goal is to help restaurants understand tipping behavior better and optimize service and revenue strategies.
 
@@ -97,6 +97,6 @@ Since larger groups contribute positively to tipping, consider promoting discoun
 Make tipping easier by adding tip suggestions on digital payment screens (like 15%, 18%, or 20%). This makes tipping convenient, transparent and can encourage customers to tip more.
 
 ## Conclusion:
-### **So, we can conclude that 'total_bill' and 'size' are the most significant features that impacts tip amounts.**
+### **From above steps, we can conclude that 'total_bill' and 'size' are the most significant features that impacts tip amounts. These features should be kept in mind if we want to optimize service and revenue strategies.**
 
 **Author**: Kachhadia Harsh Nagjibhai - 24566011
